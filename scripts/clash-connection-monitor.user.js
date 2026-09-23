@@ -14,8 +14,8 @@
 // @connect      localhost
 // @run-at       document-body
 // @icon         https://cdn.jsdelivr.net/gh/Dreamacro/clash/docs/logo.png
-// @downloadURL  https://raw.githubusercontent.com/SyberRabbit/userscripts/main/scripts/clash-connection-monitor.user.js
-// @updateURL    https://raw.githubusercontent.com/SyberRabbit/userscripts/main/scripts/clash-connection-monitor.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/SyberRabbit/userscripts@main/scripts/clash-connection-monitor.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/SyberRabbit/userscripts@main/scripts/clash-connection-monitor.user.js
 // ==/UserScript==
 
 (function () {

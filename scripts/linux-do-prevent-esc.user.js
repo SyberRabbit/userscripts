@@ -6,8 +6,8 @@
 // @author       Sola
 // @match        https://linux.do/*
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/SyberRabbit/userscripts/main/scripts/linux-do-prevent-esc.user.js
-// @updateURL    https://raw.githubusercontent.com/SyberRabbit/userscripts/main/scripts/linux-do-prevent-esc.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/SyberRabbit/userscripts@main/scripts/linux-do-prevent-esc.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/SyberRabbit/userscripts@main/scripts/linux-do-prevent-esc.user.js
 // ==/UserScript==
 
 (function() {

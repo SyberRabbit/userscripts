@@ -9,8 +9,8 @@
 // @include      /^https?:\/\/(www|h5)\.[^/]+\/play\/video\//
 // @run-at       document-start
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/SyberRabbit/userscripts/main/scripts/hxc-pure-reverse.user.js
-// @updateURL    https://raw.githubusercontent.com/SyberRabbit/userscripts/main/scripts/hxc-pure-reverse.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/SyberRabbit/userscripts@main/scripts/hxc-pure-reverse.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/SyberRabbit/userscripts@main/scripts/hxc-pure-reverse.user.js
 // ==/UserScript==
 
 /**
