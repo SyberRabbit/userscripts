@@ -1,0 +1,6 @@
+.DS_Store
+_extract/
+scriptcat-backup-*/
+*.zip
+*.storage.json
+*.options.json
