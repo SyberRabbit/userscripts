@@ -1,7 +1,7 @@
 // ==UserSubscribe==
 // @name         Sola 用户脚本订阅
 // @description  Sola 自用脚本合集：DeepSeek / 知乎跟作者更新，其余为本仓库脚本
-// @version      0.3.2
+// @version      0.3.3
 // @author       Sola
 // @namespace    https://github.com/SyberRabbit/userscripts
 // @homepage     https://github.com/SyberRabbit/userscripts
