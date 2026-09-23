@@ -3,7 +3,6 @@
 // @description  Sola 自用脚本合集：DeepSeek / 知乎跟作者更新，其余为本仓库脚本
 // @version      0.3.2
 // @author       Sola
-// @updateURL    https://raw.githubusercontent.com/SyberRabbit/userscripts/main/subscribe.user.sub.js
 // @namespace    https://github.com/SyberRabbit/userscripts
 // @homepage     https://github.com/SyberRabbit/userscripts
 // @license      MIT
