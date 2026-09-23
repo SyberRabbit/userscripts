@@ -2,7 +2,7 @@
 // @name         Clash Connection Monitor
 // @license      MIT
 // @namespace    https://github.com/SyberRabbit/userscripts
-// @version      0.2.1
+// @version      0.2.2
 // @description  在页面角落显示当前站点的 Clash 连接状态（直连/代理、规则、上下行）
 // @author       Sola
 // @match        *://*/*
@@ -26,7 +26,7 @@
   function getConfig() {
     return {
       BASE_URL: GM_getValue("clash_api_base", DEFAULT_BASE_URL),
-      SECRET: GM_getValue("clash_api_secret", ""),
+      SECRET: GM_getValue("clash_api_secret", "123"),
     };
   }
 
@@ -39,7 +39,7 @@
   });
 
   GM_registerMenuCommand("设置 Clash API Secret", () => {
-    const current = GM_getValue("clash_api_secret", "");
+    const current = GM_getValue("clash_api_secret", "123");
     const next = prompt("外部控制 Secret（不会写入仓库，仅保存在本机）", current);
     if (next !== null) {
       GM_setValue("clash_api_secret", next.trim());
