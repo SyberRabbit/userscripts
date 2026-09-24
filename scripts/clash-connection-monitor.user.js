@@ -2,7 +2,7 @@
 // @name         Clash Connection Monitor
 // @license      MIT
 // @namespace    https://github.com/SyberRabbit/userscripts
-// @version      0.2.2
+// @version      0.2.3
 // @description  在页面角落显示当前站点的 Clash 连接状态（直连/代理、规则、上下行）
 // @author       Sola
 // @match        *://*/*
